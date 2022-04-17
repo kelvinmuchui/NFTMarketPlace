@@ -42,7 +42,7 @@ function NFTDropPage() {
                 font-extralight sm:w-80'>The{' '} 
                 <span className='font-extrabold underline 
                 decoration-pink-600/50
-                '> Kelvin</span>{' '}NFT Market Place</h1>
+                '> KelvinSoi</span>{' '}NFT Market Place</h1>
                 <button onClick={()=> address ? disconnect(): connectWithMetamask()} className='rounded-full bg-rose-400 px-4 text-white py-2 text-xs
                 font-bold
                 lg:px-5 lg:py-3 lg:text-base'>
